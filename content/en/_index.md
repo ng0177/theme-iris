@@ -1,42 +1,33 @@
 ---
 title: Home
-description: Hugo Theme IRIS homepage
+description: ng0177's homepage
 date: 2020-01-01T23:00:00.000Z
 ---
 
 
+## Astronomy
 
-## About Hugo IRIS Theme
-
-View source code on GitHub.
+pictures are coming soon.
 
 <br>
 
-{{< repo id="peaceiris" name="hugo-theme-iris" >}}
 
-### Profile
+## Science
 
-{{< table >}}
-| Key | Value |
-|---|---|
-| Static Site Generator | Hugo |
-| Language | Go |
-{{< /table >}}
-
-### Keywords
+coding projects:
 
 {{< li >}}
-- Hugo
-- Golang
-- Static Site Generators
+- maxima
 {{< /li >}}
 
-{{< li >}}
-1. Hugo
-1. Golang
-1. Static Site Generators
-{{< /li >}}
+<br>
 
+
+## IT
+
+{{< repo id="ng0177" name="theme-iris" >}}
+
+<br>
 
 
 ## Links
@@ -50,12 +41,32 @@ View source code on GitHub.
 ### External
 
 <div class="buttons">
-  {{< button href="https://gohugo.io/" txt="Hugo Homepage" >}}
-  {{< button href="https://github.com/gohugoio/" txt="Hugo GitHub" >}}
-  {{< button href="https://discourse.gohugo.io/" txt="Hugo Forum" >}}
-  {{< button href="https://twitter.com/GoHugoIO" txt="Hugo Twitter" >}}
+  {{< button href="https://github.com/peaceiris/hugo-theme-iris/" txt="peaceiris/hugo-theme-iris" >}}
+  {{< button href="https://peaceiris.com/" txt="peaceiris" >}}
 </div>
 
+
+## Templates
+
+### button
+<div class="buttons">
+  {{< button href="https://gohugo.io/" txt="Hugo Homepage" >}}
+</div>
+
+### list
+{{< li >}}
+- Hugo
+{{< /li >}}
+
+### table
+{{< table >}}
+| Key | Value |
+|---|---|
+{{< /table >}}
+
+### mermaid
+{{< mermaid >}}
+{{< /mermaid >}}
 
 
 ## Shortcodes

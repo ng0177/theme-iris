@@ -37,14 +37,14 @@ languages:
     languageCode: en-us
     params:
       author: peaceiris
-      description: Hugo IRIS Theme Demo Site
+      description: theme-iris.netlify.app
       twitter:
         username: piris314
       ogp:
         siteName: Hugo Theme Iris
         image: images/ogp.jpg
         locale: en-US
-    title: Hugo IRIS Theme
+    title: ng0177's homepage
     weight: 1
   ja:
     contentDir: content/ja
