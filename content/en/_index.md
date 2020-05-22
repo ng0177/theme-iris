@@ -10,15 +10,7 @@ date: 2020-01-01T23:00:00.000Z
 
 pictures are coming soon.
 
-<br>
-<figure class="image is-180x180 container">
-  <img
-    class="is-rounded"
-    src="/images/peter1of3.jpg"
-    alt="INDIGO"
-  />
-</figure>
-<br>
+{{< circle src="/images/peter1of3.jpg" alt="INDIGO" >}}
 
 
 ## Science
