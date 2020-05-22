@@ -1,4 +1,4 @@
-baseURL: "https://example.com"
+baseURL: "https://theme-iris.netlify.app"
 theme: hugo-theme-iris
 
 # googleAnalytics: UA-123-45
@@ -41,7 +41,7 @@ languages:
       twitter:
         username: piris314
       ogp:
-        siteName: Hugo Theme Iris
+        siteName: ng0177's homepage
         image: images/ogp.jpg
         locale: en-US
     title: ng0177's homepage
