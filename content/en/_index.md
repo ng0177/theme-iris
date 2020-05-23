@@ -11,6 +11,8 @@ date: 2020-01-01T23:00:00.000Z
 pictures are coming soon.
 
 {{< circle src="/images/peter1of3.jpg" alt="INDIGO" >}}
+{{< circle src="/images/peter2of3.jpg" alt="INDIGO" >}}
+{{< circle src="/images/peter3of3.jpg" alt="INDIGO" >}}
 
 
 ## Science
@@ -33,19 +35,20 @@ coding projects:
 
 ## Links
 
+### External
+
+<div class="buttons">
+  {{< button href="https://github.com/ng0177" txt="GitHub - ng0177" >}}
+  {{< button href="https://twitter.com/ng0177" txt="Twitter - ng0177" >}}
+  {{< button href="https://keybase.com/ng0177" txt="Keybase - ng0177" >}}
+</div>
+
 ### Internal
 
 <div class="buttons">
   {{< button href="./posts/" txt="All Posts" >}}
 </div>
-
-### External
-
-<div class="buttons">
-  {{< button href="https://github.com/peaceiris/hugo-theme-iris/" txt="peaceiris/hugo-theme-iris" >}}
-  {{< button href="https://peaceiris.com/" txt="peaceiris" >}}
-</div>
-
+https://keybase.io/peaceiris
 
 ## Templates
 
