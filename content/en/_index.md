@@ -8,7 +8,7 @@ date: 2020-01-01T23:00:00.000Z
 
 ## Astronomy
 
-pictures are coming soon.
+more pictures are coming soon.
 
 {{< circle src="/images/peter1of3.jpg" alt="INDIGO" >}}
 {{< circle src="/images/peter2of3.jpg" alt="INDIGO" >}}
@@ -17,7 +17,7 @@ pictures are coming soon.
 
 ## Science
 
-coding projects:
+some coding projects:
 
 {{< li >}}
 - maxima
