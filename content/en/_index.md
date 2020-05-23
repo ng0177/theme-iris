@@ -21,14 +21,8 @@ coding projects:
 
 {{< li >}}
 - maxima
+- perl
 {{< /li >}}
-
-<br>
-
-
-## IT
-
-{{< repo id="ng0177" name="theme-iris" >}}
 
 <br>
 
@@ -48,7 +42,7 @@ coding projects:
 <div class="buttons">
   {{< button href="./posts/" txt="All Posts" >}}
 </div>
-https://keybase.io/peaceiris
+
 
 ## Templates
 
@@ -76,6 +70,8 @@ https://keybase.io/peaceiris
 ## Shortcodes
 
 ### repo
+
+{{< repo id="ng0177" name="theme-iris" >}}
 
 {{< repo id="peaceiris" name="actions-gh-pages" >}}
 
