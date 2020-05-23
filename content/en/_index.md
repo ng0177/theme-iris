@@ -10,10 +10,11 @@ date: 2020-01-01T23:00:00.000Z
 
 more pictures are coming soon.
 
-{{< circle src="/images/peter1of3.jpg" alt="INDIGO" >}}
-{{< circle src="/images/peter2of3.jpg" alt="INDIGO" >}}
-{{< circle src="/images/peter3of3.jpg" alt="INDIGO" >}}
-
+<div class="columns">
+  <div class="column">{{< circle src="/images/peter1of3.jpg" alt="INDIGO" >}}</div>
+  <div class="column">{{< circle src="/images/peter2of3.jpg" alt="INDIGO" >}}</div>
+  <div class="column">{{< circle src="/images/peter3of3.jpg" alt="INDIGO" >}}</div>
+</div>
 
 ## Science
 
@@ -23,8 +24,6 @@ some coding projects:
 - maxima
 - perl
 {{< /li >}}
-
-<br>
 
 
 ## Links
@@ -44,11 +43,30 @@ some coding projects:
 </div>
 
 
+## Shortcodes
+
+### repo
+
+{{< repo id="ng0177" name="theme-iris" >}}
+
+{{< repo id="peaceiris" name="actions-gh-pages" >}}
+
+{{< repo id="peaceiris" name="actions-hugo" >}}
+
+{{< repo id="peaceiris" name="hugo-extended-docker" >}}
+
+
+<!-- comment here
+
 ## Templates
 
 ### button
 <div class="buttons">
-  {{< button href="https://gohugo.io/" txt="Hugo Homepage" >}}
+  {{< button href="https://theme-iris.netlify.app/" txt="Hugo Homepage" >}}
+</div>
+
+<div class="columns">
+  <div class="column">1</div>
 </div>
 
 ### list
@@ -66,20 +84,5 @@ some coding projects:
 {{< mermaid >}}
 {{< /mermaid >}}
 
+ -->
 
-## Shortcodes
-
-### repo
-
-{{< repo id="ng0177" name="theme-iris" >}}
-
-{{< repo id="peaceiris" name="actions-gh-pages" >}}
-
-{{< repo id="peaceiris" name="actions-hugo" >}}
-
-{{< repo id="peaceiris" name="hugo-extended-docker" >}}
-
-
-
-<!-- Internal References -->
-<!-- External References -->
